@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Island/static/css/main.2d443f84.css",
+    "main.js": "/Island/static/js/main.ab7ea43e.js",
+    "index.html": "/Island/index.html",
+    "main.2d443f84.css.map": "/Island/static/css/main.2d443f84.css.map",
+    "main.ab7ea43e.js.map": "/Island/static/js/main.ab7ea43e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d443f84.css",
+    "static/js/main.ab7ea43e.js"
+  ]
+}
